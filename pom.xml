@@ -12,7 +12,7 @@
     <artifactId>spring-boot-starter-weixin4j</artifactId>
     <version>0.0.1</version>
     <name>spring-boot-starter-weixin4j</name>
-    <description>一个基于 Spring Boot 的微信软件。</description>
+    <description>一个基于 Spring Boot OAuth2 的 微信开发SDK</description>
     <url>https://github.com/xuxiaowei-com-cn/spring-boot-starter-weixin4j</url>
     <inceptionYear>2021</inceptionYear>
 
